@@ -1,3 +1,2 @@
 # Practicing Git
 # mysite
-# mysite
